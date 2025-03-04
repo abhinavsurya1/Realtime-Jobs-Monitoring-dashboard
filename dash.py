@@ -23,8 +23,8 @@ st.set_page_config(layout="wide")
 # Email configuration
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_ADDRESS = "abhinda5334@gmail.com"
-EMAIL_PASSWORD = "ufsf fojk klfm zemt"
+EMAIL_ADDRESS = "useyourgmail"
+EMAIL_PASSWORD = "use your app password"
 
 # Fetch DAG runs data and convert timestamps to IST
 def fetch_dag_runs():
